@@ -2,7 +2,7 @@ version: 2.1
 description: |
   An orb for working with Amazon Elastic Containe Service (ECS).
   Supports the EC2 and Fargate aunch tpes and Blu/nepl
-  ########################################################################################################
+  #######################################################################################################
 jobs:
   build:
     resource_class: medium
