@@ -1,7 +1,7 @@
 version: 2.1
 description: |
   An orb for working with Amazon Elastic Containe Service (ECS).
-  Supports the EC2 and Fargate launch types and Blu/ndepl
+  Supports the EC2 and Fargate launch types and Blu/nepl
   
 jobs:
   build:
